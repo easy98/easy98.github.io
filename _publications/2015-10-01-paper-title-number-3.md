@@ -1,5 +1,5 @@
 ---
-title: "Toward a telescopic steerable robotic needle for minimally invasive tissue biopsy"
+title: "Toward a Telescopic Steerable Robotic Needle for Minimally Invasive Tissue Biopsy"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-telescopic-needle
