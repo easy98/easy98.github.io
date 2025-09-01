@@ -12,7 +12,6 @@ site_theme               : "default"
 title                    : "Yizhi Zhou"
 title_separator          : "-"
 name                     : &name "Yizhi Zhou"
-avatar                   ："Yizhi-Zhou.jpg"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,7 +19,7 @@ avatar                   ："Yizhi-Zhou.jpg"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yizhi-Zhou.jpg"
   name             : "Yizhi Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
