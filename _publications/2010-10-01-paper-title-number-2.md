@@ -1,5 +1,6 @@
 ---
 title: "Robust Online Calibration for UWB-Aided Visual-Inertial Navigation with Bias Correction"
+category: manuscripts
 collection: publications
 permalink: /publication/2025-uwb-vins-calibration
 date: 2025-08-14
