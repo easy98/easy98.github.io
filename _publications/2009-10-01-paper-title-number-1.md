@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Distributed invariant extended Kalman filter using Lie groups: Algorithm and experiments"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-diekf-lie-groups
+date: 2023-08-28
+venue: "IEEE Transactions on Control Systems Technology, 31(6): 2777–2789"
+excerpt: "We present a distributed invariant EKF on matrix Lie groups with a CI-based update that guarantees consistency; validated with extensive simulations and experiments."
+paperurl: "https://ieeexplore.ieee.org/"
+slidesurl: ""
+citation: 'J. Xu, P. Zhu, <b>Y. Zhou</b>, and W. Ren, "Distributed invariant extended Kalman filter using Lie groups: Algorithm and experiments," <i>IEEE Transactions on Control Systems Technology</i>, 31(6), 2777–2789, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Authors:** Jie Xu, Pengxiang Zhu, **Yizhi Zhou**, Wei Ren.  
+
+- Journal: *IEEE Transactions on Control Systems Technology*  
+- Volume/Issue/Pages: **31(6)**, **2777–2789** (2023)  
+
+**Links:**  
+- [Publisher (IEEE Xplore)](https://ieeexplore.ieee.org/)  
+- [PDF (if you have an open version, e.g., arXiv or institutional)](https://example.com/your-open-pdf)  
+
