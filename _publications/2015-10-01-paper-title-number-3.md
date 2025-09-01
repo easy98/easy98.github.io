@@ -1,6 +1,7 @@
 ---
 title: "Toward a telescopic steerable robotic needle for minimally invasive tissue biopsy"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-telescopic-needle
 date: 2021-02-23
 venue: "IEEE Robotics and Automation Letters, 6(2): 1989–1996"
