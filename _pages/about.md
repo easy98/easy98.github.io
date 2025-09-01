@@ -7,10 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Electrical and Computer Engineering at George Mason University (GMU), specializing in robotics, multi-agent
-system, SLAM, visual-inertial odometry, and state estimation. I am passionate about developing trustworthy and autonomous
-robot systems, which are (1) robust and adaptable, capable of operating over extended periods without human intervention
-in dynamic and uncertain environments; (2) scalable and distributed that operates robustly and efficiently for the
-localization, perception, and control of large-scale robot systems. My goal is to advance autonomous robotic systems by
-developing reliable localization, control, and perception algorithms to achieve highly capable and intelligent robots in
-real-world applications.
+
+# Hi there 👋
+
+I am **Yizhi Zhou**, a Ph.D. student in [Electrical and Computer Engineering at George Mason University (GMU)](https://ece.gmu.edu/), advised by [Prof. Xuan Wang](https://mason.gmu.edu/~xwang64/).  
+My research lies at the intersection of **robotics, SLAM, multi-robot systems, and state estimation**, with applications in autonomous navigation and control.  
+
+🔬 I work on:  
+- **Multi-sensor fusion** (IMU, camera, LiDAR, UWB)  
+- **Distributed cooperative localization**  
+- **NeRF / 3D Gaussian Splatting–aided SLAM**  
+- **Reinforcement learning for quadruped locomotion and loco-manipulation**  
+
+🎓 Previously, I received my M.S. in [Electrical and Computer Engineering at UC Riverside (UCR)](https://www.ece.ucr.edu/), advised by [Prof. Wei Ren](https://intra.ece.ucr.edu/~ren/), where I focused on **sensor fusion and drone localization**.  
+I have also gained research and industry experience at [Rawmantic AI](https://youmi-zym.github.io/) and the [University at Buffalo](https://sairlab.org/).  
+
+🚀 My goal is to advance **autonomous robotic systems** by developing **robust, consistent, and scalable localization, perception, and control algorithms** for real-world applications.  
+
+---
+
+📖 [Google Scholar](https://scholar.google.com/citations?user=WhA65J4AAAAJ&hl=zh-CN)  
+📫 Email: yzhou26@gmu.edu  
+
