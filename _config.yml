@@ -12,6 +12,7 @@ site_theme               : "default"
 title                    : "Yizhi Zhou"
 title_separator          : "-"
 name                     : &name "Yizhi Zhou"
+avatar                   ："Yizhi-Zhou.jpg"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
